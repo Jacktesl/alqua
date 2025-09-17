@@ -1,0 +1,18 @@
+# --- Arquivos do Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Pastas e arquivos do Streamlit ---
+.streamlit/
+
+# --- Banco de produtos (não subir) ---
+produtos.json
+
+# --- Arquivo de variáveis de ambiente ---
+.env
+
+# --- Arquivos de sistema ---
+.DS_Store
+Thumbs.db
